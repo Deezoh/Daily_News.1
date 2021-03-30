@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836548756429",
+    "project_id": "daily-news-5bd99",
+    "storage_bucket": "daily-news-5bd99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836548756429:android:f064b3d458178863f57a84",
+        "android_client_info": {
+          "package_name": "rubangakeneinnojoseph.gu.ac.ug.dailynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836548756429-cci85n22bjej8gj3og2hj1k5rbao28rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpMAGCc5-rCQkGGsM87EjoVf3CbpavI_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836548756429-cci85n22bjej8gj3og2hj1k5rbao28rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
