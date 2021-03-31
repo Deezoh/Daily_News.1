@@ -1,2 +1,2 @@
 # Daily_News.1
-Updates
+An application that accepts user authentication and uses webview
